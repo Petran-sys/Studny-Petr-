@@ -381,7 +381,9 @@ footer.site a{color:#dfeaec;}
 .footer-links li{margin-bottom:6px; font-size:.92rem;}
 .footer-links a{transition:opacity var(--dur) var(--ease);}
 .footer-links a:hover{opacity:.72;}
-.copyright{padding-top:var(--space-md); border-top:1px solid rgba(255,255,255,.15); color:#9db3b8; font-size:.8rem;}
+.copyright{display:flex; justify-content:space-between; gap:var(--space-sm); flex-wrap:wrap; padding-top:var(--space-md); border-top:1px solid rgba(255,255,255,.15); color:#9db3b8; font-size:.8rem;}
+.copyright a{color:#dfeaec; text-decoration:none; transition:opacity var(--dur) var(--ease);}
+.copyright a:hover,.copyright a:focus-visible{opacity:.72; text-decoration:underline;}
 
 @media (max-width: 860px){
   header.site nav.desktop-nav, header.site .nav-cta .btn-primary{display:none;}
