@@ -1,7 +1,7 @@
 # Zadání úprav webu – Kopané studny a související služby (celá ČR)
 
 Toto je strukturovaný přehled změn, které je potřeba provést na existujícím webu.
-Claude Code by měl nejprve dohledat odpovídající sekce/komponenty v repozitáři,
+Před úpravami je potřeba nejprve dohledat odpovídající sekce/komponenty v repozitáři,
 teprve pak provádět úpravy — jednu sekci po druhé, ne hromadně bez kontroly.
 
 ---
@@ -123,7 +123,7 @@ Přidat jako **hlavní/rozšířenou službu**, zahrnuje:
 
 ---
 
-## Poznámka pro Claude Code
+## Poznámka k úpravám
 
 - Před úpravami dohledej, kde přesně na webu (které komponenty/soubory) se jednotlivé
   texty a sekce nacházejí, protože zdrojové poznámky výše popisují obsah, ne přímo kód.

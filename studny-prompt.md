@@ -34,7 +34,7 @@ Zdroje: údaje od uživatele (chat) + veřejný rejstřík ARES (ověření podl
 - **Zobrazovaný název na webu: "Studnářství Petráň"** — finální, použít všude (header, patička, meta tagy, schema.org).
 - **Nezjištěná čísla (roky praxe, dojezdová vzdálenost v km) se nevymýšlí ani neodhadují.** Klient výslovně řekl: kde chybí konkrétní číslo, dát viditelný placeholder ("X", resp. textová poznámka "doplní klient") — ne fake hodnotu — a rozvržení (hero stat strip, lokální SEO blok) na to připravit tak, aby po doplnění nešoupalo layoutem.
 - **"Pátek 15:00"** — potvrzeno, že se to netýká zadání, neřešit.
-- **Fotky:** žádné reálné zatím k dispozici → jedeme s placeholder rámečky dle `AGENTS.md` §6 (šedé pozadí, ikona kamery, popisek, správný aspect-ratio).
+- **Fotky:** žádné reálné zatím k dispozici → jedeme s placeholder rámečky (šedé pozadí, ikona kamery, popisek, správný aspect-ratio).
 
 ## Stále otevřené (nezodpovězeno, needomýšlet)
 
